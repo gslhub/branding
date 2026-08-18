@@ -4,6 +4,8 @@
 
 ### Official visual identity for Generative Search Lab Hub
 
+**English** · [Español](./README.es.md)
+
 [Website](https://gslhub.com) · [GitHub](https://github.com/gslhub) · [Research platform](https://github.com/gslhub/website)
 
 </div>
